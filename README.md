@@ -1,10 +1,12 @@
-#Name Entity Relation Project
-This project aims to build a Name Entity Relation (NER) system that can automatically extract and classify named entities from unstructured text data, and identify the relationships between them. The project utilizes natural language processing (NLP) techniques and machine learning algorithms to achieve accurate and efficient NER.
+# Name Entity Relation Project
 
-Features
-Named Entity Extraction: The system is capable of identifying and extracting named entities such as persons, organizations, locations, dates, and more from raw text documents.
-Entity Classification: It provides entity classification capabilities, allowing the system to categorize extracted entities into predefined classes or custom-defined categories.
-Relationship Extraction: The project focuses on determining the relationships between named entities, enabling the discovery of connections, associations, and dependencies between different entities in the text.
-Machine Learning Models: The NER system employs state-of-the-art machine learning models, such as recurrent neural networks (RNNs), convolutional neural networks (CNNs), and transformer models, to achieve high accuracy in entity recognition and relationship extraction.
-Training and Evaluation: The project includes functionality to train the NER models using labeled datasets and evaluate their performance against annotated test data, facilitating continuous improvement and optimization of the system.
-Scalability and Flexibility: The codebase is designed to handle large volumes of text data and is easily adaptable to different domains or languages by fine-tuning the models and adjusting the entity and relationship classes as required.
+This project aims to build a Name Entity Relation (NER) system that automates the extraction and classification of named entities from unstructured text data, while also identifying the relationships between them. Utilizing NLP techniques and machine learning algorithms, this project ensures accurate and efficient NER capabilities.
+
+## Features
+
+- **Named Entity Extraction**: The system efficiently identifies and extracts named entities (e.g., persons, organizations, locations, dates) from raw text documents.
+- **Entity Classification**: Allows the system to classify extracted entities into pre-defined classes or custom-defined categories.
+- **Relationship Extraction**: Focuses on determining relationships between named entities, enabling the discovery of connections, associations, and dependencies within the text.
+- **Machine Learning Models**: Employs state-of-the-art machine learning models (e.g., RNNs, CNNs, transformer models) to achieve high accuracy in entity recognition and relationship extraction.
+- **Training and Evaluation**: Provides functionality to train NER models using labeled datasets and evaluate their performance against annotated test data, enabling continuous improvement and optimization.
+- **Scalability and Flexibility**: Designed to handle large volumes of text data, and easily adaptable to different domains or languages by fine-tuning models and adjusting entity/relationship classes as needed.
