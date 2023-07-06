@@ -1,4 +1,4 @@
-Name Entity Relation Project
+#Name Entity Relation Project
 This project aims to build a Name Entity Relation (NER) system that can automatically extract and classify named entities from unstructured text data, and identify the relationships between them. The project utilizes natural language processing (NLP) techniques and machine learning algorithms to achieve accurate and efficient NER.
 
 Features
